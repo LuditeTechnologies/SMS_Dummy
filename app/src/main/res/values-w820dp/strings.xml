@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SendButtonText">Send</string>
+    <string name="SendIntentButtonText">SMS Intent</string>
+    <string name="EnterMessageBody">Enter message body</string>
+    <string name="MessageBodyLabel">Message Body:</string>
+    <string name="PhoneNumberLabel">Phone Number :</string>
+    <string name="EnterPhoneNumber">Enter phone number</string>
+    <string name="ParseAppId">PnOc8YVsELm2Fz7TJ31iO535iD45QinIFhVPi6HN</string>
+    <string name="ParseClientKey">0lb7HTyMzH0AtlXsizNLxevNDcv67VcvXguqBkSw</string>
+    <string name="Parse_SMSObject">SMSObject</string>
+    <string name="ThanksForThinkingOfMe">Thanks for thinking of me! I\'ll get back to you as soon as I can. If it\'s urgent, I suggest you call me because I\'m much more likely to get hold of.</string>
+</resources>

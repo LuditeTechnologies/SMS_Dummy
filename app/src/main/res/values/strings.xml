@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="ParseAppId">Vz9y4pMrQ3bez0H49La0gBB2QzKPO8KGciTt32r1</string>
+    <string name="ParseClientKey">jzGbN1Rz9fOQoP8qrDPr0Y0RUjBJEURzTIDhDwBq</string>
+
+    <string name="app_name">SMS_Dummy</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="SendButtonText">Send</string>
+    <string name="SendIntentButtonText">SMS Intent</string>
+    <string name="EnterMessageBody">Enter message body</string>
+    <string name="MessageBodyLabel">Message Body:</string>
+    <string name="PhoneNumberLabel">Phone Number :</string>
+    <string name="EnterPhoneNumber">Enter phone number</string>
+
+    <string name="UnableToSendSMS">ERROR *I8U7: This user is unable to receive messages.</string>
+    <string name="Parse_SMSObject">SMSObject</string>
+    <string name="Parse_SMSError">SMSError</string>
+    <string name="ThanksForThinkingOfMe">Thanks for thinking of me! I\'ll get back to you as soon as I can. If it\'s urgent, I suggest you call me because I\'m much more likely to get hold of.</string>
+
+</resources>
